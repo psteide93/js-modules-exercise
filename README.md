@@ -1,8 +1,5 @@
 # JavaScript Modules Exercise
 
-## Deployed Link
-https://psteide93.github.io/js-modules-exercise/
-
 * Add a folder called `utilities`
 * In this folder, add a file called `difference.js`
 * In this file, import the function `difference` from the [`lodash`](https://www.npmjs.com/package/lodash) package on npm. Note that you'll also need to set up a node project and install Lodash for this to work.
