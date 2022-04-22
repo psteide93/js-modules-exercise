@@ -1,5 +1,9 @@
 # JavaScript Modules Exercise
 
+### Deployed link: 
+https://62620bdc0645b60a9064c5d9--tourmaline-bavarois-838e3d.netlify.app/
+
+
 * Add a folder called `utilities`
 * In this folder, add a file called `difference.js`
 * In this file, import the function `difference` from the [`lodash`](https://www.npmjs.com/package/lodash) package on npm. Note that you'll also need to set up a node project and install Lodash for this to work.
