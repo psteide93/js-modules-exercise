@@ -19,5 +19,6 @@
   "homepage": "https://github.com/psteide93/js-modules-exercise#readme",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "type" :"module"
 }
