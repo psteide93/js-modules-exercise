@@ -1,6 +1,6 @@
 # JavaScript Modules Exercise
 
-# Deployed Link
+## Deployed Link
 https://psteide93.github.io/js-modules-exercise/
 
 * Add a folder called `utilities`
